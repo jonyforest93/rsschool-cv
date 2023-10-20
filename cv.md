@@ -10,11 +10,26 @@
 
 ---
 
-### Contact information
+### Contact information:
 
 **Phone:** +375 44 7501619
 **E-mail:** y.struneuski@gmail.com
 **Telegram:** @eugenenutt
 [Git](https://github.com/jonyforest93)
+
+=====
+
+### Briefly About Myself:
+
+I am a Frontend Developer with a passion for creating interactive and efficient
+user interfaces using modern technologies and best development practices.
+
+=====
+
+### Skills and Proficiency:
+
+**Front-end:** HTML/CSS, JavaScript, React, Tailwind, Bootstrap
+**Back-end:** Node.js, express, mongodb, REST
+**Web design:** Figma, Photoshop
 
 =====
