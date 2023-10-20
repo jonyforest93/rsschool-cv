@@ -54,3 +54,32 @@ function findOddInOddPlace(str) {
         } in place (${str.length});`;
 }
 ```
+
+=====
+
+### Experience
+
+**ITransition trainee** (**_July 2023 - September 2023_**)
+
+-   Creating and deploying a complete web application covering both server-side and client-side components.
+-   Server-Side Development:
+    -   Writing routes and controllers using Node.js and Express.js to handle HTTP re quests;
+    -   Working with MongoDB for creating and managing data models.
+-   Database Modeling in MongoDB:
+    -   Designing and creating data models for efficient data storage and manipulation in MongoDB ;
+    -   Working with schemas and data migrations to ensure data integrity and security.
+-   Client-Side Development using React:
+    -   Building an interactive user interface with React, including components and routing ;
+    -   Interacting with the server-side through APIs for data transmission and retrieval;
+    -   Optimizing performance and ensuring a great user experience (UX).
+
+[pet project](https://opnio-sphere.onrender.com/)
+[certificate](https://firebasestorage.googleapis.com/v0/b/opiniosphere.appspot.com/o/Yauheni%20Struneuski%20-%20Front-end%20-%20Sep%2029th,%202023.pdf?alt=media&token=a732cad3-7d08-451d-8ca8-9e33c63222cb)
+
+=====
+
+### Courses
+
+-   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+-   JavaScript Manual on learnjavascript.ru (in progress)
+-   HTML Academy
