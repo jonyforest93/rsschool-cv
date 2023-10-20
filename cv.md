@@ -33,3 +33,24 @@ user interfaces using modern technologies and best development practices.
 **Web design:** Figma, Photoshop
 
 =====
+
+### Code Example
+
+**An example of solving a problem from the codewars website:** In a string of numbers, find the odd values ​​in the odd places
+
+```
+function findOddInOddPlace(str) {
+    if (str.length == 0) {
+        return "";
+    }
+    if (str.length % 2 == 0) {
+        return findOddInOddPlace(str.slice(0, -1));
+    }
+    if (parseInt(str[str.length - 1]) % 2 == 0) {
+        return findOddInOddPlace(str.slice(0, -1));
+    } else
+        return `${findOddInOddPlace(str.slice(0, -1))} ${
+            str[str.length - 1]
+        } in place (${str.length});`;
+}
+```
