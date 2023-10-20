@@ -83,3 +83,8 @@ function findOddInOddPlace(str) {
 -   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 -   JavaScript Manual on learnjavascript.ru (in progress)
 -   HTML Academy
+
+### Languages
+
+-   English - A2
+-   Russian - native
